@@ -1,5 +1,5 @@
 # 📘 TÀI LIỆU KỸ THUẬT & PHÂN CÔNG NHIỆM VỤ (TECH STACK & TASK ASSIGNMENT)
-
+## Tên web: learnflow.xxx
 ## 1. TỔNG QUAN (INTRODUCTION)
 Để xây dựng một nền tảng E-learning hiện đại, có khả năng mở rộng (scalable) và bảo trì dễ dàng (maintainable), dự án được xây dựng dựa trên kiến trúc **Microservices** và tuân thủ các nguyên lý của **Domain-Driven Design (DDD)**. Hệ thống được chia thành các dịch vụ độc lập, giao tiếp với nhau qua giao thức chuẩn, đảm bảo hiệu năng cao và trải nghiệm người dùng tối ưu.
 
@@ -66,12 +66,12 @@
 
 | Mã (Code) | Vai trò (Role) | Họ và tên (Full Name) |
 | :--- | :--- | :--- |
-| **M1** | Team Leader / Architect / DevOps | [Điền tên M1] |
-| **M2** | Backend Dev (Course & Media) | [Điền tên M2] |
-| **M3** | Frontend Lead & Architect | [Điền tên M3] |
-| **M4** | Fullstack Dev (Learning Logic) | [Điền tên M4] |
-| **M5** | Fullstack Dev (Interaction) | [Điền tên M5] |
-| **M6** | Backend Dev (Payment) | [Điền tên M6] |
+| **M1** | Team Leader / Architect / DevOps | Lâm Hùng |
+| **M2** | Backend Dev (Course & Media) | Việt |
+| **M3** | Frontend Lead & Architect | Vinh Quang |
+| **M4** | Fullstack Dev (Learning Logic) | Vương |
+| **M5** | Fullstack Dev (Interaction) | Ngọc Anh |
+| **M6** | Backend Dev (Payment) | Thanh Tùng |
 
 ---
 
@@ -159,3 +159,8 @@ Mô hình phát triển theo **Domain-Driven Design (DDD)**. Hệ thống chia l
 3.  **Frontend UX/UI:**
     *   Sử dụng chung bộ UI Kit (ShadcnUI) để đồng bộ trải nghiệm.
     *   M3 chịu trách nhiệm review UI code của các thành viên khác.
+
+## 7. Tính năng AI bổ trợ
+Chatbot tư vấn khóa học, hỏi đáp khi xem  
+AI tạo phụ đề cho nhiều ngôn ngữ  
+AI vấn đáp sau mỗi module (giao tiếp bằng giọng nói)
